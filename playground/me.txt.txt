@@ -1,5 +1,0 @@
-{{#Prabhat1615}}
-Name: Prabhat Kumar
-Skills: HTML, CSS, JS, Next.Js
-Email: prabhatkumar958873@gmai.com
-{{/Prabhat1615}}
